@@ -3,4 +3,5 @@
 I'm Seina, and I am 4th-year Cognitive Science of Language student from McMaster University. 
 I enjoy learning languages and analyzing. I'm currently working on R programming as well as python.
 
-
+## Skills / Experience
+R / Python in Beginner
