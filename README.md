@@ -5,7 +5,7 @@ I enjoy learning languages and analyzing. I'm currently working on R programming
 
 ## Skills / Experience
 - R
-  - Have taken courses using R as statistic and linguistic analysis
+  - Have taken courses using R for statistic and linguistic analysis
   - Currently working as a research assistant using R programming at McMaster University
 - Python as a Beginner
 
