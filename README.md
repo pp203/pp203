@@ -9,3 +9,6 @@ I enjoy learning languages and analyzing. I'm currently working on R programming
   - Currently working as a research assistant using R programming at McMaster University
 - Python as a Beginner
 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pp203)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/seina-yamada-08756b207/)  
